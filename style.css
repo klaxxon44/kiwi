@@ -1,0 +1,70 @@
+
+body {
+
+	padding: 0px;
+	margin: 0px;
+	background-color: black;
+}
+
+header p {
+	color:blue;
+}
+
+header {
+	height: 20px;
+	background-image: url("images.jpg");
+	padding-top: 40px;
+	text-align: center;
+}
+
+nav {
+	display: flex;
+	justify-content: space-around;
+}
+
+nav a{
+	text-decoration: none;
+	color: white;
+	font-size: 20px;
+}
+
+
+header h1 {
+	text-align: center;
+	margin-top: 0px;
+	color:white;
+	padding-left: 0px;
+	padding-top:;
+}
+section {
+	display: flex;
+
+}
+main {
+	padding-left: 0%;
+	padding-top: 2%;
+	
+	border-top: 1px solid white;
+}
+.n1 {
+	padding-top: 10px;
+	width: 50%;
+	background-color: black;
+}
+.n2 {
+	padding-top: 10px;
+	width: 50%;
+	background-color: black;
+
+}
+
+
+main img {
+
+	width: 50%
+
+}
+
+main p {
+	color: white;
+}
